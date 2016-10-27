@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###Escuela Colombiana de Ingeniería
 ###Procesos de desarrollo de Software – PDSW
 ###Laboratorio
@@ -73,3 +74,6 @@ __Parte II.__
 9. Revise [este ejemplo de validación de formularios con javascript](http://www.w3schools.com/js/js_validation.asp) y agruéguelo a su formulario, de manera que -al momento de hacer 'submit'- desde el browser se valide que el valor ingresado es un valor numérico.
 
 9. Recompile y ejecute la aplicación. Abra en su navegador http://localhost:8080/index.html , y rectifique que la página hecha anteriormente sea mostrada. Ingrese los datos y verifique los resultados. Cambie el formulario para que ahora en lugar de POST, use el método GET. Qué diferencia observa?
+=======
+# Lab8
+>>>>>>> 22a94c7e97c216c72c329215129ff68efa1b8bfb
